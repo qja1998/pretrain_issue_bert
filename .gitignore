@@ -201,14 +201,15 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python
 
-.pt
-.bin
-.pth
+*.pt
+*.bin
+*.pth
 test.txt
 train.txt
-.csv
-.yaml
-.wandb
-.log
-.json
+*.csv
+*.yaml
+*.wandb
+*.log
+*.json
 !config.json
+/*/*
