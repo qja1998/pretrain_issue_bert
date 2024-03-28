@@ -13,11 +13,11 @@ and install pytorch [here](https://pytorch.org/)
 
 1. Preprocessing
 
-`data/preprocessing.ipynb`
+  `data/preprocessing.ipynb`
 
 2. Training and masking testing
 
-`train_issue_bert.ipynb`
+  `train_issue_bert.ipynb`
 
 
 # Data Format
