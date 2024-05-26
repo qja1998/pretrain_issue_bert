@@ -6,7 +6,7 @@
 and install pytorch [here](https://pytorch.org/)
 
 ### Install utility package
-`pip install pandas tqdm gihub`
+`pip install pandas tqdm github`
 
 
 # How to use
